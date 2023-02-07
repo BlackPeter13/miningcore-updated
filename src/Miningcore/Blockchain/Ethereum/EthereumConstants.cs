@@ -54,7 +54,7 @@ public class EthOneConstants
 
 public class FloraConstants
 {
-    public const decimal BaseRewardInitial = 1.0m;
+    public const decimal BaseRewardInitial = 5.0m;
 }
 
 public enum EthereumNetworkType
